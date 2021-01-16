@@ -177,7 +177,7 @@ When the player is viewable, a _viewable_ event is fired with a viewable value o
 
 These API calls are used for loading and retrieving the current playlist (of one or more items), as well as for navigating between playlist items. When accessed via the API, a playlist is an Array, containing one or more objects. Each of these objects contains the following:
 
-get|Value|Description|Type|
+|Value|Description|Type|
 |----|--------|---|
 | description | A description specified inside of the playlist | String |
 | mediaid | A unique media identifier for a particular piece of content, regardless of the format used | String |
